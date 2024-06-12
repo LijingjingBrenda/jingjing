@@ -1,0 +1,39 @@
+/* Basic Page Styling */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Add more styles as needed */
